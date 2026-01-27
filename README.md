@@ -157,13 +157,7 @@ END:VCARD
 - ✅ WhatsApp URL
 - 🔄 Can be extended with name, company, address, etc.
 
-## 🌐 Browser Support
 
-- ✅ Chrome/Edge 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Opera 76+
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## 📂 Project Structure
 
@@ -219,7 +213,6 @@ vercel --prod
    npm run deploy
    ```
 
-## 🐛 Troubleshooting
 
 ### QR Code Not Generating
 
