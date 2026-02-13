@@ -220,16 +220,7 @@ vercel --prod
 - ✅ Verify WhatsApp number format (+countrycode + number)
 - ✅ Check browser console for errors
 
-### Tailwind Styles Not Working
 
-```bash
-# Reinstall dependencies
-rm -rf node_modules
-npm install
-
-# Restart dev server
-npm run dev
-```
 
 ### Port Already in Use
 
