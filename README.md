@@ -1,17 +1,7 @@
 # 📱 Contact QR Code Generator
 
 
-## ✨ Features
 
-- 🎨 **Modern UI/UX** - Beautiful gradient design with smooth animations
-- 📱 **Mobile Responsive** - Works perfectly on all devices
-- ⚡ **Lightning Fast** - Built with Vite for instant hot reload
-- 🎯 **Multi-Format Support** - Generate vCard QR codes compatible with all smartphones
-- 💌 **Multiple Email Options** - Default email app, Gmail web, and Outlook web
-- 📲 **WhatsApp Integration** - Direct WhatsApp messaging link
-- 💾 **Instant Download** - Download QR codes as PNG images
-- 🔒 **Privacy First** - No data stored, everything happens in your browser
-- 🌐 **Universal Compatibility** - Works with iOS and Android devices
 
 ## 🚀 Quick Start
 
